@@ -130,7 +130,7 @@ Default value:
    '(mode-line ((t (:foreground "#0022aa" :bold t :background "#77ff00"
                                 :box (:line-width 1 :color nil :style released-button)))))
    '(mode-line-inactive ((t (:foreground "#444444" :background "#66ff33"))))
-   '(mode-line-buffer-id ((t (:bold t :foreground "#ffffff" :background "#0055ff"))))
+   ;; '(mode-line-buffer-id ((t (:bold t :foreground "#ffffff" :background "#0055ff"))))
    '(powerline-active1 ((t (:foreground "#ffffff" :background "#222222"))))
    '(powerline-active2 ((t (:foreground "#ffffff" :background "#77ff00"))))
    '(powerline-inactive1 ((t (:foreground "#ffffff" :background "#555555"))))
